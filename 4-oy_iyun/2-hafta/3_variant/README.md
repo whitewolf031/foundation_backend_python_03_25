@@ -7,7 +7,7 @@ Ushbu loyihada `while` va `for` sikllaridan foydalangan holda yozilgan amaliy Py
 ## 📂 1. Kvadratlar chiqarish (`while` sikli)
 
 ### 🔍 Tavsif:
-Foydalanuvchidan son qabul qilinadi. `while` sikli yordamida **1 dan shu songacha** bo‘lgan barcha sonlarning **kvadratlari** chiqariladi.
+Foydalanuvchidan son qabul qilinadi. `while` sikli yordamida **1 dan shu songacha** bo‘lgan barcha sonlarning **kvadratlari** chiqarilsin va listga joylansin.
 
 ### 📁 Fayl: `while_kvadrat.py`
 
